@@ -26,7 +26,7 @@ Aspiring to grow as a software developer and contribute to impactful projects.
   <a href="https://www.linkedin.com/in/samuel-hernandez-8153883a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:samucavada@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -51,7 +51,7 @@ Aspiro a crecer como desarrollador de software y contribuir a proyectos de impac
   <a href="https://www.linkedin.com/in/samuel-hernandez-8153883a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:samucavada@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
