@@ -23,7 +23,7 @@ Aspiring to grow as a software developer and contribute to impactful projects.
 
 ### 📫 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-hernandez-8153883a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tuemail@gmail.com">
@@ -48,7 +48,7 @@ Aspiro a crecer como desarrollador de software y contribuir a proyectos de impac
 
 ### 📫 Conéctate conmigo
 <p>
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-hernandez-8153883a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tuemail@gmail.com">
